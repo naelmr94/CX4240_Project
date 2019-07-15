@@ -1,4 +1,4 @@
-##Distribution of data
+## Distribution of data
 
 You can use the [editor on GitHub](https://github.com/naelmr94/CX4240_Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
